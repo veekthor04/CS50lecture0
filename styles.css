@@ -1,0 +1,41 @@
+h1 {
+	color: blue;
+	text-align: center;
+}
+#top {
+	background-color: teal;
+	margin: 30px;
+	padding: 20px;
+	font-family: Arial, san-serif;
+	font-size: 15px;
+}
+#middle {
+	background-color: red;
+	margin: 30px;
+	padding: 20px;
+	font-family: Arial, san-serif;
+	font-size: 15px;
+}
+#bottom {
+	background-color: yellow;
+	margin: 30px;
+	padding: 20px;
+	font-family: Arial, san-serif;
+	font-size: 15px;
+}
+.name {
+	font-weight: bold;
+	font-size: 20px;
+}
+table {
+	border: 2px solid black;
+	border-collapse: collapse;
+	margin: 20px;
+	width: 25%;
+}
+th{
+	border: 2px solid black;
+}
+td{
+	border: 1px solid black;
+}
